@@ -1,0 +1,11 @@
+img{
+height:25%;
+width:30%;
+}
+.imagecontain{
+	float:left;
+}
+.imagecontain a{
+	margin-left:-20px;
+}
+.catagory_content li .product_upload_box .add_photo{left:0px;}
